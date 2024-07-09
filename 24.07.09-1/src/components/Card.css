@@ -1,0 +1,13 @@
+.cardArrangement {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 20px;
+    padding: 2% 10%;
+    background-color: rgb(188, 170, 211);
+    border: none;
+}

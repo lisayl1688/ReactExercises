@@ -1,0 +1,10 @@
+.petArrangement {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 2px 5px 1px rgba(50, 50, 50, 0.1);
+    align-items: center;
+    padding: 5% 5%;
+    background-color: rgb(146, 171, 193);
+    color: rgb(56, 59, 62);
+
+}
